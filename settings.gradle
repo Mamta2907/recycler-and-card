@@ -1,0 +1,2 @@
+rootProject.name = "recycler&card"
+include ':app'
